@@ -10,9 +10,6 @@ import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import io.realm.Realm
 
-
-
-
 class MainActivity : AppCompatActivity() {
     private var fontsize=10f
     private var width=200
